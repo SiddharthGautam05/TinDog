@@ -1,1 +1,1 @@
-# TinDog
+# Mockup of TinDog Website.
